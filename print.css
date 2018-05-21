@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body
+{
+	font: 14px Verdana, Geneva, sans-serif;
+	color: #666;
+}
+
+h1, h2, h3, h4
+{
+	color: #333;
+	font-weight: normal;
+	line-height: 200%;
+}
+
+img
+{
+	padding: 5px;
+	border: 0px;
+}
+
+p
+{
+	text-align: justify;
+	line-height: 200%;
+}
+
+ul
+{
+	list-style: square inside;
+}
+
+ol
+{
+	list-style: decimal inside;
+}
+
+li
+{
+	text-align: justify;
+}
+
+table
+{
+	margin: 0px auto;
+	border-collapse: collapse;
+}
+
+th, td
+{
+	padding: 5px;
+	border: 1px solid #999;
+}
+
+#container
+{
+	margin: 0px auto;
+	width: 800px;
+	padding: 0px;
+}
